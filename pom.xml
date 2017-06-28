@@ -15,7 +15,7 @@
    
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <additionalparam>-Xdoclint:none</additionalparam>
+        <javadoc.opts>-Xdoclint:none</javadoc.opts>
     </properties>
 
     <name>nailgun-all</name>
